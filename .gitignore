@@ -1,0 +1,4 @@
+.eslintrc
+
+/front/.next
+/front/node_modules
